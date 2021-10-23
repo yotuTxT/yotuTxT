@@ -1,1 +1,1 @@
-![wao](https://user-images.githubusercontent.com/92563412/137541653-b245eb71-b69e-4804-9c2b-e61e90a8266e.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yotutxt&count_private=true&show_icons=true&hide_border=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
